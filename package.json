@@ -12,7 +12,7 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "winbox": "=0.2.6"
+    "winbox": "=0.2.82"
   },
   "peerDependencies": {
     "react": ">=16.14.0",
